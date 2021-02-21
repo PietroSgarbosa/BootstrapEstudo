@@ -1,0 +1,69 @@
+body {
+    font-family: Estherilla;
+    /*Fonte especial retirada do portfólio da Ahsabcomp Studio*/
+}
+
+
+.liClass {
+    font-size: 30px;
+}
+
+.liClass2 {
+    font-size: 20px;
+    color: white;
+}
+.navbar {
+    background-color: RoyalBlue;
+    /*Site de cores: http://www.colors.commutercreative.com/royalblue/# */
+}
+
+.who-we-are {
+    background-color: beige;
+    padding-bottom: 15px;
+    color: royalblue;
+}
+
+.partnership {
+    background-color: gainsboro;
+    padding-bottom: 15px;
+    color: royalblue;
+}
+
+.services {
+    background-color: lightsteelblue;
+    padding-bottom: 15px;
+    color: royalblue;
+}
+
+.padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.imgTest {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+.pSection {
+    font-size: 22px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.logos {
+    width: 300px;
+    height: 150px;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+.services {
+    padding: 80px;
+}
+
+.bg-footer {
+    background-color: royalblue;
+}
